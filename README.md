@@ -1,5 +1,9 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hola, soy Diego Suarez Murillo
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&width=600&height=100&lines=Full+Stack+Developer;Open+Source+Contributor;Database+Administrator+(MySQL+%7C+SQL+Server);API+%26+Integration+Designer;Coffee-powered+Coder+%E2%98%95" alt="Typing SVG" />
+</div>
+
 <!--
 **dasmania03/dasmania03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
